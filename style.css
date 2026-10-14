@@ -48,6 +48,12 @@ section {
   border: 1px solid rgb(88, 88, 88);
 }
 
+div {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
 img {
   width: 100%;
   height: fit-content;
